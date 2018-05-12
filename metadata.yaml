@@ -1,0 +1,32 @@
+_repo: Sumerian-Liturgies-and-Psalms_31935
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Langdon, Stephen
+    aliases:
+    - Langdon, S. (Stephen)
+    - Langdon, Stephen Herbert
+    birthdate: 1876
+    deathdate: 1937
+    gutenberg_agent_id: '8322'
+    url: http://www.gutenberg.org/2009/agents/8322
+    wikipedia: http://cdli.ucla.edu/wiki/index.php/Langdon,_Stephen_Herbert
+description: ''
+gutenberg_issued: '2010-04-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31935'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Hymns, Sumerian'
+- !lcc 'PJ'
+- !lcsh 'Sumerian language -- Texts'
+- !lcsh 'Sumerians -- Religion'
+title: Sumerian Liturgies and Psalms
+url: http://www.gutenberg.org/ebooks/31935
